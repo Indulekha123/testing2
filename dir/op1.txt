@@ -1,0 +1,10 @@
+a_file
+Desktop
+Documents
+Downloads
+examples.desktop
+grep.txt
+grep.txt~
+Music
+new
+op1.txt
